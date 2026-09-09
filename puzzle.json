@@ -1,0 +1,223 @@
+{
+  "size": {
+    "H": 15,
+    "W": 15
+  },
+  "grid": [
+    "..P.....N.....G",
+    "A.R.VELVET....A",
+    "R.O...A.B..O..M",
+    "ORBIT.T.U..C..B",
+    "M.E.A.T.L..T..I",
+    "A...N.I.A.HABIT",
+    "....G.C....V.G.",
+    "T..TELESCOPE.L.",
+    "R...N...O.E..O.",
+    "ESTATE..M.NYLON",
+    "A.......P.D....",
+    "T..ENIGMA.U....",
+    "Y....C..SALSA..",
+    ".....O..S.U....",
+    ".SPHINX...MOTIF"
+  ],
+  "entries": [
+    {
+      "num": 1,
+      "dir": "down",
+      "row": 0,
+      "col": 2,
+      "len": 5,
+      "answer": "PROBE",
+      "clue": "Craft sent to explore a planet"
+    },
+    {
+      "num": 2,
+      "dir": "down",
+      "row": 0,
+      "col": 8,
+      "len": 6,
+      "answer": "NEBULA",
+      "clue": "Cloud of gas and dust in space"
+    },
+    {
+      "num": 3,
+      "dir": "down",
+      "row": 0,
+      "col": 14,
+      "len": 6,
+      "answer": "GAMBIT",
+      "clue": "Chess opening that sacrifices a pawn"
+    },
+    {
+      "num": 4,
+      "dir": "down",
+      "row": 1,
+      "col": 0,
+      "len": 5,
+      "answer": "AROMA",
+      "clue": "Pleasant smell from cooking"
+    },
+    {
+      "num": 5,
+      "dir": "across",
+      "row": 1,
+      "col": 4,
+      "len": 6,
+      "answer": "VELVET",
+      "clue": "Soft fabric with a dense pile"
+    },
+    {
+      "num": 6,
+      "dir": "down",
+      "row": 1,
+      "col": 6,
+      "len": 7,
+      "answer": "LATTICE",
+      "clue": "Crisscross framework of strips"
+    },
+    {
+      "num": 7,
+      "dir": "down",
+      "row": 2,
+      "col": 11,
+      "len": 6,
+      "answer": "OCTAVE",
+      "clue": "Musical interval of eight notes"
+    },
+    {
+      "num": 8,
+      "dir": "across",
+      "row": 3,
+      "col": 0,
+      "len": 5,
+      "answer": "ORBIT",
+      "clue": "A planet's path around the sun"
+    },
+    {
+      "num": 9,
+      "dir": "down",
+      "row": 3,
+      "col": 4,
+      "len": 7,
+      "answer": "TANGENT",
+      "clue": "Line touching a curve at a single point"
+    },
+    {
+      "num": 10,
+      "dir": "across",
+      "row": 5,
+      "col": 10,
+      "len": 5,
+      "answer": "HABIT",
+      "clue": "Routine that is hard to break"
+    },
+    {
+      "num": 11,
+      "dir": "down",
+      "row": 5,
+      "col": 13,
+      "len": 5,
+      "answer": "IGLOO",
+      "clue": "Dome-shaped snow shelter"
+    },
+    {
+      "num": 12,
+      "dir": "down",
+      "row": 7,
+      "col": 0,
+      "len": 6,
+      "answer": "TREATY",
+      "clue": "Formal pact between nations"
+    },
+    {
+      "num": 13,
+      "dir": "across",
+      "row": 7,
+      "col": 3,
+      "len": 9,
+      "answer": "TELESCOPE",
+      "clue": "Instrument for viewing distant stars"
+    },
+    {
+      "num": 14,
+      "dir": "down",
+      "row": 7,
+      "col": 8,
+      "len": 7,
+      "answer": "COMPASS",
+      "clue": "Tool that always points north"
+    },
+    {
+      "num": 15,
+      "dir": "down",
+      "row": 7,
+      "col": 10,
+      "len": 8,
+      "answer": "PENDULUM",
+      "clue": "Swinging weight that keeps a clock's time"
+    },
+    {
+      "num": 16,
+      "dir": "across",
+      "row": 9,
+      "col": 0,
+      "len": 6,
+      "answer": "ESTATE",
+      "clue": "Large property with a grand house"
+    },
+    {
+      "num": 17,
+      "dir": "across",
+      "row": 9,
+      "col": 10,
+      "len": 5,
+      "answer": "NYLON",
+      "clue": "Synthetic fiber used in stockings"
+    },
+    {
+      "num": 18,
+      "dir": "across",
+      "row": 11,
+      "col": 3,
+      "len": 6,
+      "answer": "ENIGMA",
+      "clue": "Baffling puzzle or mystery"
+    },
+    {
+      "num": 19,
+      "dir": "down",
+      "row": 11,
+      "col": 5,
+      "len": 4,
+      "answer": "ICON",
+      "clue": "Small image you click on a screen"
+    },
+    {
+      "num": 20,
+      "dir": "across",
+      "row": 12,
+      "col": 8,
+      "len": 5,
+      "answer": "SALSA",
+      "clue": "Spicy dip or a lively dance"
+    },
+    {
+      "num": 21,
+      "dir": "across",
+      "row": 14,
+      "col": 1,
+      "len": 6,
+      "answer": "SPHINX",
+      "clue": "Riddling creature of Greek myth"
+    },
+    {
+      "num": 22,
+      "dir": "across",
+      "row": 14,
+      "col": 10,
+      "len": 5,
+      "answer": "MOTIF",
+      "clue": "Recurring theme in a design"
+    }
+  ]
+}
